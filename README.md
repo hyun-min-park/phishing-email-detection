@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [🛡️ Phishing Email Detection with Explainable AI](#🛡️-phishing-email-detection-with-explainable-ai)
+- [🛡️ Phishing Email Detection with Explainable AI](#-phishing-email-detection-with-explainable-ai)
 - [📁 Files](#-files)
 - [📌 Project Overview](#-project-overview)
 - [📊 Dataset](#-dataset)
