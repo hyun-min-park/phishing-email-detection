@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 
 - [🛡️ Phishing Email Detection with Explainable AI](#-phishing-email-detection-with-explainable-ai)
 - [📁 Files](#-files)
@@ -14,7 +14,7 @@
 
 ---
 
-# 🛡️ Phishing Email Detection with Explainable AI
+## 🛡️ Phishing Email Detection with Explainable AI
 
 
 > **Safe AI Project Proposal**
