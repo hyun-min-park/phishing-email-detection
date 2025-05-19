@@ -43,7 +43,6 @@ Our goal: **Build high-performing phishing detectors with explainability in mind
 - Source: [Kaggle - Phishing Emails Dataset](https://www.kaggle.com/datasets/subhajournal/phishingemails)
 - Samples: 18,650 emails (both phishing and legitimate)
 - Task: Binary classification (1 = Safe, 0 = Phishing)  
-  **(safe=1, phishing=0)**
 
 ## 🧠 Models
 
