@@ -74,17 +74,14 @@ Our goal: **Build high-performing phishing detectors with explainability in mind
 5. **Evaluation**: Accuracy, F1-score, Confusion Matrix, Threshold tuning
 
 ## 📈 Performance Summary
-<img width="600" alt="프로젝트 개요 이미지" src="https://github.com/user-attachments/assets/db38e575-0f51-4824-b89c-94b4e9af3122" />
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/db38e575-0f51-4824-b89c-94b4e9af3122" alt="프로젝트 개요 이미지" width="600"/>
-</p>
-
+<img alt="프로젝트 개요 이미지" src="https://github.com/user-attachments/assets/db38e575-0f51-4824-b89c-94b4e9af3122" style="max-width: 100%;" />
 
 | Model   | Precision        | Recall       | F1 Score |
 |---------|------------------|--------------|----------|
 | MLP     | 0.96             | 0.98         | 0.96     |
 | RoBERTa | 0.98             | 0.98         | 0.98     |
+
 
 ## 💡 Future Work 
 
@@ -160,6 +157,8 @@ We plan to apply SHAP and LIME to visualize how each model arrives at its decisi
 5. **평가**: 정확도, F1-score, 혼동행렬, 임계값 튜닝
 
 ## 📈 성능 요약
+
+<img alt="프로젝트 개요 이미지" src="https://github.com/user-attachments/assets/db38e575-0f51-4824-b89c-94b4e9af3122" style="max-width: 100%;" />
 
 | 모델    | 정밀도 | 재현율 | F1 점수 |
 |---------|--------------|-------------|---------|
