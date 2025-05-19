@@ -101,6 +101,10 @@ We plan to apply SHAP and LIME to visualize how each model arrives at its decisi
 ├── 📄 mlp_best.pt              # Trained MLP model    
 ├── 📄 roberta_best.pt          # Trained RoBERTa model **(file is large, available separately on eClass)**    
 
+## 📄 License
+
+This project is licensed under the [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html).
+
 ---
 
 # 🛡️ 설명 가능한 AI 기반 피싱 이메일 탐지
@@ -182,3 +186,7 @@ SHAP 및 LIME을 적용하여 각 모델이 어떻게 의사결정을 내리는�
 ├── 📄 roberta.ipynb            # RoBERTa 모델 파인튜닝 노트북  
 ├── 📄 mlp_best.pt              # 학습된 MLP 모델   
 ├── 📄 roberta_best.pt          # 학습된 RoBERTa 모델 가중치 (용량이 커서 Eclass에 업로드함)   
+
+## 📄 라이선스
+
+이 프로젝트는 [GNU LGPL v3.0](https://www.gnu.org/licenses/lgpl-3.0.html) 라이선스 하에 배포됩니다.
