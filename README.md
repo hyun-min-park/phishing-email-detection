@@ -74,6 +74,12 @@ Our goal: **Build high-performing phishing detectors with explainability in mind
 5. **Evaluation**: Accuracy, F1-score, Confusion Matrix, Threshold tuning
 
 ## 📈 Performance Summary
+<img width="600" alt="프로젝트 개요 이미지" src="https://github.com/user-attachments/assets/db38e575-0f51-4824-b89c-94b4e9af3122" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db38e575-0f51-4824-b89c-94b4e9af3122" alt="프로젝트 개요 이미지" width="600"/>
+</p>
+
 
 | Model   | Precision        | Recall       | F1 Score |
 |---------|------------------|--------------|----------|
