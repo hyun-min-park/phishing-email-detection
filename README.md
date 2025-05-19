@@ -1,16 +1,16 @@
 # Table of Contents
 
 - [🛡️ Phishing Email Detection with Explainable AI](#🛡️-phishing-email-detection-with-explainable-ai)
-- [📁 Files](#📁-files)
-- [📌 Project Overview](#📌-project-overview)
-- [📊 Dataset](#📊-dataset)
-- [🧠 Models](#🧠-models)
-  - [🔹 MLP (TF-IDF + Feedforward Neural Network)](#🔹-mlp)
-  - [🔹 RoBERTa (Transformer Fine-tuning)](#🔹-roberta)
-- [⚙️ Training Pipeline](#⚙️-training-pipeline)
-- [📈 Performance Summary](#📈-performance-summary)
-- [💡 Future Work: Explainability (XAI)](#💡-future-work)
-- [📎 Repository Structure](#📎-repository-structure)
+- [📁 Files](#-files)
+- [📌 Project Overview](#-project-overview)
+- [📊 Dataset](#-dataset)
+- [🧠 Models](#-models)
+  - [🔹 MLP (TF-IDF + Feedforward Neural Network)](#-mlp)
+  - [🔹 RoBERTa (Transformer Fine-tuning)](#-roberta)
+- [⚙️ Training Pipeline](#️-training-pipeline)
+- [📈 Performance Summary](#-performance-summary)
+- [💡 Future Work: Explainability (XAI)](#-future-work)
+- [📎 Repository Structure](#-repository-structure)
 
 ---
 
