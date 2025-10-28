@@ -1,0 +1,606 @@
+{
+  "email_text": "Please update your payment details\r\n\r\nHi Dear,\r\n\r\nWe're having some trouble with your current billing information.\r\nWe'll try again, but in the meantime you may want to update your payment\r\ndetails.\r\n\r\n🔴 UPDATE ACCOUNT NOW (button)\r\n\r\nNeed help? We’re here if you need it.\r\nVisit the Help Centre or contact us now.\r\n\r\n— Your friends at Netflix\r\n\r\n🖤 Questions? Call 0800 096 8879\r\n\r\nThis account email has been sent to you as part of your Netflix membership.\r\nTo change your email preferences at any time, please visit the\r\nCommunication Settings page for your account.\r\n",
+  "prediction": {
+    "class": 1,
+    "label": "피싱 이메일",
+    "confidence": 0.9962170720100403,
+    "all_class_probabilities": {
+      "정상 이메일": 0.003782985731959343,
+      "피싱 이메일": 0.9962170720100403
+    }
+  },
+  "token_analysis": {
+    "all_tokens": [
+      {
+        "token": "Please",
+        "attribution": 0.131663978099823
+      },
+      {
+        "token": "update",
+        "attribution": 0.3454831540584564
+      },
+      {
+        "token": "your",
+        "attribution": 0.16987492144107819
+      },
+      {
+        "token": "payment",
+        "attribution": -0.01786722242832184
+      },
+      {
+        "token": "details",
+        "attribution": 0.04884796589612961
+      },
+      {
+        "token": "č",
+        "attribution": 0.0753663033246994
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.03576713800430298
+      },
+      {
+        "token": "č",
+        "attribution": 0.12670433521270752
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.07949709892272949
+      },
+      {
+        "token": "Hi",
+        "attribution": 0.02935204841196537
+      },
+      {
+        "token": "Dear",
+        "attribution": 0.050196774303913116
+      },
+      {
+        "token": ",",
+        "attribution": 0.010424124076962471
+      },
+      {
+        "token": "č",
+        "attribution": 0.025998495519161224
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.0174406711012125
+      },
+      {
+        "token": "č",
+        "attribution": 0.033740390092134476
+      },
+      {
+        "token": "Ċ",
+        "attribution": -0.020309848710894585
+      },
+      {
+        "token": "We",
+        "attribution": 0.06145372614264488
+      },
+      {
+        "token": "'re",
+        "attribution": 0.0822393149137497
+      },
+      {
+        "token": "having",
+        "attribution": 0.0672018975019455
+      },
+      {
+        "token": "some",
+        "attribution": -0.007485784590244293
+      },
+      {
+        "token": "trouble",
+        "attribution": -0.06936134397983551
+      },
+      {
+        "token": "with",
+        "attribution": 0.05093711242079735
+      },
+      {
+        "token": "your",
+        "attribution": 0.08825834095478058
+      },
+      {
+        "token": "current",
+        "attribution": 0.21774744987487793
+      },
+      {
+        "token": "billing",
+        "attribution": -0.006458839401602745
+      },
+      {
+        "token": "information",
+        "attribution": -0.04923109710216522
+      },
+      {
+        "token": ".",
+        "attribution": 0.039016202092170715
+      },
+      {
+        "token": "č",
+        "attribution": 0.039607226848602295
+      },
+      {
+        "token": "Ċ",
+        "attribution": -0.028187230229377747
+      },
+      {
+        "token": "We",
+        "attribution": -0.034185174852609634
+      },
+      {
+        "token": "'ll",
+        "attribution": -0.022568991407752037
+      },
+      {
+        "token": "try",
+        "attribution": -0.15339885652065277
+      },
+      {
+        "token": "again",
+        "attribution": -0.08255142718553543
+      },
+      {
+        "token": ",",
+        "attribution": -0.06092154234647751
+      },
+      {
+        "token": "but",
+        "attribution": -0.06862242519855499
+      },
+      {
+        "token": "in",
+        "attribution": -0.029192795976996422
+      },
+      {
+        "token": "the",
+        "attribution": 0.002187838777899742
+      },
+      {
+        "token": "meantime",
+        "attribution": -0.025113236159086227
+      },
+      {
+        "token": "you",
+        "attribution": 0.10903795063495636
+      },
+      {
+        "token": "may",
+        "attribution": -0.005686359014362097
+      },
+      {
+        "token": "want",
+        "attribution": -0.11541863530874252
+      },
+      {
+        "token": "to",
+        "attribution": -0.010786370374262333
+      },
+      {
+        "token": "update",
+        "attribution": -0.018801141530275345
+      },
+      {
+        "token": "your",
+        "attribution": 0.12461681663990021
+      },
+      {
+        "token": "payment",
+        "attribution": -0.0010123420506715775
+      },
+      {
+        "token": "č",
+        "attribution": 0.06476898491382599
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.033007554709911346
+      },
+      {
+        "token": "details",
+        "attribution": -0.006210845895111561
+      },
+      {
+        "token": ".",
+        "attribution": 0.006259626243263483
+      },
+      {
+        "token": "č",
+        "attribution": -0.016170484945178032
+      },
+      {
+        "token": "Ċ",
+        "attribution": -0.007436713669449091
+      },
+      {
+        "token": "č",
+        "attribution": 0.007446380332112312
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.0033718175254762173
+      },
+      {
+        "token": "ðŁ",
+        "attribution": 0.036182377487421036
+      },
+      {
+        "token": "Ķ",
+        "attribution": 0.005372403189539909
+      },
+      {
+        "token": "´",
+        "attribution": -0.050193995237350464
+      },
+      {
+        "token": "UPDATE",
+        "attribution": -0.07543954253196716
+      },
+      {
+        "token": "ACC",
+        "attribution": 0.07793186604976654
+      },
+      {
+        "token": "OUNT",
+        "attribution": 0.06597268581390381
+      },
+      {
+        "token": "NOW",
+        "attribution": 0.09427247196435928
+      },
+      {
+        "token": "(",
+        "attribution": 0.012866949662566185
+      },
+      {
+        "token": "button",
+        "attribution": 0.005154218524694443
+      },
+      {
+        "token": ")",
+        "attribution": -0.025340326130390167
+      },
+      {
+        "token": "č",
+        "attribution": 0.007211154326796532
+      },
+      {
+        "token": "Ċ",
+        "attribution": -0.013080637902021408
+      },
+      {
+        "token": "č",
+        "attribution": 0.037417151033878326
+      },
+      {
+        "token": "Ċ",
+        "attribution": -0.028548792004585266
+      },
+      {
+        "token": "Need",
+        "attribution": -0.02969988062977791
+      },
+      {
+        "token": "help",
+        "attribution": -0.0743359699845314
+      },
+      {
+        "token": "?",
+        "attribution": -0.036654993891716
+      },
+      {
+        "token": "We",
+        "attribution": 0.039980486035346985
+      },
+      {
+        "token": "âĢ",
+        "attribution": 0.00849788449704647
+      },
+      {
+        "token": "Ļ",
+        "attribution": 0.037577442824840546
+      },
+      {
+        "token": "re",
+        "attribution": 0.026551231741905212
+      },
+      {
+        "token": "here",
+        "attribution": 0.07744023203849792
+      },
+      {
+        "token": "if",
+        "attribution": -0.07276790589094162
+      },
+      {
+        "token": "you",
+        "attribution": 0.05817342922091484
+      },
+      {
+        "token": "need",
+        "attribution": 0.07318180799484253
+      },
+      {
+        "token": "it",
+        "attribution": -0.032687894999980927
+      },
+      {
+        "token": ".",
+        "attribution": 0.051038309931755066
+      },
+      {
+        "token": "č",
+        "attribution": 0.017806444317102432
+      },
+      {
+        "token": "Ċ",
+        "attribution": -0.042002178728580475
+      },
+      {
+        "token": "Visit",
+        "attribution": 0.05544915795326233
+      },
+      {
+        "token": "the",
+        "attribution": -0.0060746632516384125
+      },
+      {
+        "token": "Help",
+        "attribution": 0.03104550391435623
+      },
+      {
+        "token": "Centre",
+        "attribution": -0.01611851528286934
+      },
+      {
+        "token": "or",
+        "attribution": 0.03105604089796543
+      },
+      {
+        "token": "contact",
+        "attribution": 0.03088526800274849
+      },
+      {
+        "token": "us",
+        "attribution": 0.08082500100135803
+      },
+      {
+        "token": "now",
+        "attribution": 0.10321935266256332
+      },
+      {
+        "token": ".",
+        "attribution": -0.0020705782808363438
+      },
+      {
+        "token": "č",
+        "attribution": 0.010050907731056213
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.00839689839631319
+      },
+      {
+        "token": "č",
+        "attribution": -0.0028779529966413975
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.04504790157079697
+      },
+      {
+        "token": "âĢĶ",
+        "attribution": 0.006469659507274628
+      },
+      {
+        "token": "Your",
+        "attribution": -0.03413190320134163
+      },
+      {
+        "token": "friends",
+        "attribution": 0.0435856394469738
+      },
+      {
+        "token": "at",
+        "attribution": 0.08117994666099548
+      },
+      {
+        "token": "Netflix",
+        "attribution": -0.10548126697540283
+      },
+      {
+        "token": "č",
+        "attribution": 0.004688693676143885
+      },
+      {
+        "token": "Ċ",
+        "attribution": -0.05431191250681877
+      },
+      {
+        "token": "č",
+        "attribution": 0.04090013727545738
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.023822613060474396
+      },
+      {
+        "token": "ðŁ",
+        "attribution": 0.07487106323242188
+      },
+      {
+        "token": "ĸ",
+        "attribution": -0.0013677915558218956
+      },
+      {
+        "token": "¤",
+        "attribution": -0.015946056693792343
+      },
+      {
+        "token": "Questions",
+        "attribution": -0.04265761375427246
+      },
+      {
+        "token": "?",
+        "attribution": -0.042989879846572876
+      },
+      {
+        "token": "Call",
+        "attribution": 0.03261790797114372
+      },
+      {
+        "token": "0",
+        "attribution": 0.007747152354568243
+      },
+      {
+        "token": "800",
+        "attribution": 0.025829380378127098
+      },
+      {
+        "token": "0",
+        "attribution": -0.012980902567505836
+      },
+      {
+        "token": "96",
+        "attribution": -0.006341971457004547
+      },
+      {
+        "token": "88",
+        "attribution": 0.0008882612455636263
+      },
+      {
+        "token": "79",
+        "attribution": 0.0004020710475742817
+      },
+      {
+        "token": "č",
+        "attribution": 0.00480026938021183
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.014409066177904606
+      },
+      {
+        "token": "č",
+        "attribution": 0.030958645045757294
+      },
+      {
+        "token": "Ċ",
+        "attribution": 0.033604998141527176
+      },
+      {
+        "token": "This",
+        "attribution": 0.011348930187523365
+      },
+      {
+        "token": "account",
+        "attribution": 0.0924050360918045
+      },
+      {
+        "token": "email",
+        "attribution": 0.005122012458741665
+      },
+      {
+        "token": "has",
+        "attribution": 0.043448083102703094
+      },
+      {
+        "token": "been",
+        "attribution": 0.009564750827848911
+      },
+      {
+        "token": "sent",
+        "attribution": -0.013227812945842743
+      }
+    ],
+    "most_influential": [
+      {
+        "token": "update",
+        "attribution": 0.3454831540584564
+      },
+      {
+        "token": "current",
+        "attribution": 0.21774744987487793
+      },
+      {
+        "token": "your",
+        "attribution": 0.16987492144107819
+      },
+      {
+        "token": "try",
+        "attribution": -0.15339885652065277
+      },
+      {
+        "token": "Please",
+        "attribution": 0.131663978099823
+      },
+      {
+        "token": "č",
+        "attribution": 0.12670433521270752
+      },
+      {
+        "token": "your",
+        "attribution": 0.12461681663990021
+      },
+      {
+        "token": "want",
+        "attribution": -0.11541863530874252
+      },
+      {
+        "token": "you",
+        "attribution": 0.10903795063495636
+      },
+      {
+        "token": "Netflix",
+        "attribution": -0.10548126697540283
+      },
+      {
+        "token": "now",
+        "attribution": 0.10321935266256332
+      },
+      {
+        "token": "NOW",
+        "attribution": 0.09427247196435928
+      },
+      {
+        "token": "account",
+        "attribution": 0.0924050360918045
+      },
+      {
+        "token": "your",
+        "attribution": 0.08825834095478058
+      },
+      {
+        "token": "again",
+        "attribution": -0.08255142718553543
+      }
+    ]
+  },
+  "risk_assessment": {
+    "suspicious_urls": [],
+    "potential_fake_domains": [],
+    "risky_influential_keywords": [
+      {
+        "token": "update",
+        "attribution": 0.3454831540584564
+      }
+    ],
+    "urgency_indicators": [
+      {
+        "token": "NOW",
+        "attribution": 0.09427247196435928
+      },
+      {
+        "token": "now",
+        "attribution": 0.10321935266256332
+      }
+    ],
+    "overall_risk_score": 3
+  },
+  "model_metrics": {
+    "analysis_timestamp": "2025-06-11T18:50:04.806439"
+  }
+}
