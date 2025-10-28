@@ -46,13 +46,8 @@
 이처럼 단순 탐지 정확도 최적화에 그치지 않고, AI의 판단 근거를 누구나 쉽게 이해할 수 있도록 XAI 및 자동화에 중점을 둔 것이 이 프로젝트의 가장 큰 강점입니다.
 
 ## 🎬 시연 영상 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=KzXkFYNGH_I">
-    <img src="https://img.youtube.com/vi/KzXkFYNGH_I/0.jpg" alt="ExplainSec 시연 영상" width="600">
-  </a>
-  <br>
-  <strong>Click to watch the Demo Video (시연 영상 보기)</strong>
-</p>
+
+https://github.com/user-attachments/assets/57fb2556-e3c1-4ff7-a6ef-6ae441f50ac8
 
 ## 🗂️ 시스템 아키텍처 
 
