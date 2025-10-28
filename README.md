@@ -189,13 +189,8 @@ For this project, we utilized a real phishing email dataset (Kaggle), implemente
 Unlike projects focused only on perfecting detection accuracy, a strength of this project is its focus on XAI and automation so that the AI's decisions can be easily understood by anyone.
 
 ## 🎬 Demo Video
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=KzXkFYNGH_I">
-    <img src="https://img.youtube.com/vi/KzXkFYNGH_I/0.jpg" alt="ExplainSec Demo Video" width="600">
-  </a>
-  <br>
-  <strong>Click to watch the Demo Video</strong>
-</p>
+
+https://github.com/user-attachments/assets/57fb2556-e3c1-4ff7-a6ef-6ae441f50ac8
 
 ## 🗂️ System Architecture
 
